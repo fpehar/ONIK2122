@@ -2,6 +2,8 @@
 
 
 
+Nakladništvo je najrašireniji posao u svijetu
+
 ## Uvod u GIT za nakladnike
 
 # Uvod u Git repozitorije
