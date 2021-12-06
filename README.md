@@ -2,6 +2,8 @@
 
 u akad. god. 2021./2022.
 
+Nakladništvo je najrašireniji posao u svijetu
+
 ## Uvod u GIT za nakladnike
 
 # Uvod u Git repozitorije
